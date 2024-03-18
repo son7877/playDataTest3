@@ -1,1 +1,4 @@
 안홍범
+
+git add . 
+git commit -m "test"
